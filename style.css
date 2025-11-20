@@ -1,0 +1,19 @@
+#bn{
+  border: solid 10px red;
+  border-radius: 10px;
+  background-color: yellow;
+}
+body{
+  background: darkorange;
+  font-style: italic;
+}
+#cnd{
+  height: 6px;
+}
+span{
+  height: 8px;
+}
+#up{
+  background-color: blue;
+}
+
